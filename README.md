@@ -13,7 +13,7 @@
 ### 🐄 Analysis of Milk Quality (2023)
 Classification of milk quality based on a dataset obtained from observations at milking. Interesting dimensional reduction techniques were applied as well as the deployment of the classifier in **Flask**, also **Scikit-learn** tools were used.
 
-![Projection](/assets/img/ProjectionsfromtSNE3D.png)
+![Projection](/assets/img/ProjectionsfromtSNE3D.png | width=50)
 
 ### Image Segmentation for greenhouse (2023)
 A Segformer model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in HuggingFace spaces. The project was approached with **HuggingFace** tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai**.
