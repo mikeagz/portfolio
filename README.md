@@ -10,12 +10,10 @@
 - Demonstration of the Habitat AI simulator via python framework. A demonstration of reinforcement learning models (PPO) as well as classical models (SLAM) within the simulator was presented with Python.
 
 ## Projects
-### :cow2: Analysis of Milk Quality :cow2: (2023)
+### :cow2: Analysis of Milk Quality (2023)
 Classification of milk quality based on a dataset obtained from observations at milking. Interesting dimensional reduction techniques were applied as well as the deployment of the classifier in **Flask**, also **Scikit-learn** tools were used.
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/img/ProjectionsfromtSNE3D.png"> 
-</p>
+![Projection](/assets/img/ProjectionsfromtSNE3D.png)
 
 ### Image Segmentation for greenhouse (2023)
 A Segformer model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in HuggingFace spaces. The project was approached with **HuggingFace** tools (Pipelines, Datasets, AutoTrain).
