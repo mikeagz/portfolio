@@ -33,6 +33,13 @@ An analysis of the classic Adult dataset where data cleaning and preprocessing t
 
 [Check more projects here!](more-projects.md)
 
-## [Further training](further-training.md)
+## Further training
+I am a person who is constantly learning, that is why I like to attend workshops, conferences or take online courses on professional topics or hobbies.
 
+- [IT Project Panagement](https://drive.google.com/file/d/11AdWADj3LvfMMs7U44TOEAsLdaqnrxg9/view)
+- [Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/LZMDYCJCR2UY)
+- [Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/TVYKF9C2XEMS)
+- [Python for Data Analysis: Pandas & NumPy](https://www.coursera.org/account/accomplishments/verify/6QRKQ8GZFF5N)
+- [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/A2SGRBHW4UYB)
 
+[Check more here!](further-training.md)
