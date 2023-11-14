@@ -37,6 +37,8 @@ Master thesis that improves the performance of world-model based agents by reduc
 ### 🤖 Agricultural robot for spraying 🤖 (2020)
 Agricultural robot prototype for monitoring and spraying tasks in tomato greenhouses. The project covered the mechanical design and development of control systems at the functional prototype level. Solidworks, **Matlab** and Labview were used.
 
-## [Certifications](certifications-page.md)
+[Check more projects here!](more-projects.md)
+
+## [Further training](further-training.md)
 
 
