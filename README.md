@@ -21,7 +21,7 @@ Classification of milk quality based on a dataset obtained from observations at 
 
 ![Projection](/assets/img/ProjectionsfromtSNE3D.png){: .centrar-imagen }
 
-<img src="/assets/img/ProjectionsfromtSNE3D.png" alt="Projection" style="text-align: center;">
+<img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png" alt="Projection" style="text-align: center;">
 
 <p align="center">
   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png" alt="Sublime's custom image"/>
