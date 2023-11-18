@@ -25,7 +25,7 @@ Classification of milk quality based on a dataset obtained from observations at 
   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png" alt="Sublime's custom image"/>
 </p>
 
-<div style="text-align:center"><img src="/assets/img/ProjectionsfromtSNE3D.png" /></div>
+<div style="text-align:center"><img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png" /></div>
 
 ### 🍅 Image Segmentation for greenhouse 🍅 (2023)
 A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai** and Gradio.
