@@ -21,7 +21,7 @@ Classification of milk quality based on a dataset obtained from observations at 
 ![Projection](/assets/img/ProjectionsfromtSNE3D.png)
 
 ### 🍅 Image Segmentation for greenhouse 🍅 (2023)
-A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai**.
+A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai** and Gradio.
 
 ![Projection](/assets/img/segformer_demo.png)
 
