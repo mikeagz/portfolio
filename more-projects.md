@@ -1,11 +1,68 @@
 [⬅️ back](./)
 
-### Fast Food Classifier
+### 🌽 Autonomous Navigation Vision System 🌽 (2023)
 
-### Tomato market analysis
+An autonomous navigation system was developed for agricultural robots based on the tracking of corn rows through **image segmentation** with deep learning models. The system was implemented on **Jetson Xavier** and Arduino devices. Languages and frameworks such as **Python**, **Pytorch** and **Tensorflow** were used.
+
+![Row Detection](/assets/img/row_detect.png)
+
+### 💵 Adult Income 💵 (2023)
+An analysis of the classic Adult dataset where data **cleaning** and **preprocessing** techniques were applied, as well as **modeling** and **deployment** of a binary classifier. The following tools were used:
+- Sklearn
+- Streamlit
+- FeatureEngine
+- ImbalancedLearn
+- Pandas
+- Plotly
+
+![app](/assets/img/app_view.png)
+
+### 📈 Tomato market analysis 📈 (2023)
+The objective of this project was to analyze the flow of tomato prices between national markets. The database was obtained through the SNIIM system (Mexico). This project completed the activities:
+- Data minning
+- Data cleaning 
+- Exploratory Data Analysis
+
+Librarys and tools:
+- Scrapy
+- Sklearn
+- Pandas
+- Plotly
+- SQL
+
+![by DALLE](assets\img\tomato_market.jpg)
+
+### 🕺🏽Character Classifier 🕺🏽(2022)
+The main task is to classify Simpsons characters using a **convolutional neural network**, the activities include:
+- Data acquisition
+- Exploratory analysis of the data set
+- Preprocessing and manipulation 
+- Modeling
+- Evaluation of the model.
+
+Highlights:
+- Preprocessing contemplates centering and filling operations since the exploratory analysis revealed images with different dimensions and aspect ratio.
+- The transformed images were stored on disk using **TFRecords** to test their efficiency in manipulation and consumption in the training process.
+- The convolutional network model was trained in TensorFlow using a custom class inherited from tf.module with weight initializers subject to a **uniform lecun** distribution.
+- Sklearn was useful for model evaluation with metrics such as **confusion matrix**, **precision**, recall and f1.
+- 
+![Simpson](assets/img/simpson.png)
+
+### 🍔 Fast Food Classifier 🍔(2022)
+In this project we have classified different fast foods and different representations (commercial, amateur photos, professional photos, etc). The activities include:
+- Preprocessing and manipulation
+- Modeling
+- Model evaluation
+
+Aspects to be highlighted:
+- The **pre-trained EfficientNet B0** model was chosen as the base model for the classifier.
+- The **cosine annealed decay** and reset algorithm was used for the learning rate in order to obtain improvements in the neural network weight optimization process.
+
+![FastFood](assets/img/fastfood.jpg)
 
 ### 🌏 Research on World Models 🌏 (2021-2023)
 Master thesis that improves the performance of world-model based agents by reducing the number of parameters in appropriate models such as **PCA** and **VAE**. The project was developed in **Python** and **Tensorflow**.
+![WorldModel](assets\img\worldModel.jpg)
 
 ### 🤖 Agricultural robot for spraying 🤖 (2020)
 Agricultural robot prototype for monitoring and spraying tasks in tomato greenhouses. The project covered the mechanical design and development of control systems at the functional prototype level. Solidworks, **Matlab** and Labview were used.

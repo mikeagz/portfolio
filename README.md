@@ -1,7 +1,12 @@
 # Data Scientist
+I am passionate about artificial intelligence and data science. I have recently started my studies as a PhD student in computer science. I have a strong background in various modeling paradigms, including supervised, unsupervised and reinforcement learning. I use tools such as Python and Scikit-Learn proficiently to address **classification**, **regression** and **clustering** challenges. Exploring areas such as **Computer Vision** and **Natural Language Processing**, I have successfully solved complex problems with **TensorFlow** and **Pytorch**. In addition, I demonstrate proficiency in **SQL** for databases and leverage **Azure** Studio for cloud computing. My commitment to continuous learning constantly drives me to broaden my horizons of expertise.
+
+🤗 HuggingFace
+📄 Medium
+👨🏾‍💻 Kaggle
 
 ## 🎓 Education 🎓
-- Ph.D., Computer Science | Computing Research Center (_Jun2027_)
+- Ph.D., Computer Science | Computing Research Center (_Jun 2027_)
 - M.S., Computer Engineering	| Computing Research Center (_Jun 2023_)
 - B.S., Control Engineering | National Polytechnic Institute (_Dec 2020_)
 
@@ -16,20 +21,9 @@ Classification of milk quality based on a dataset obtained from observations at 
 ![Projection](/assets/img/ProjectionsfromtSNE3D.png)
 
 ### 🍅 Image Segmentation for greenhouse 🍅 (2023)
-A Segformer model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in HuggingFace spaces. The project was approached with **HuggingFace** tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai**.
+A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai**.
 
 ![Projection](/assets/img/segformer_demo.png)
-
-### 🌽 Autonomous Navigation Vision System 🌽 (2023)
-
-An autonomous navigation system was developed for agricultural robots based on the tracking of corn rows through image segmentation with deep learning models. The system was implemented on **Jetson Xavier** and Arduino devices. Languages and frameworks such as **Python**, **Pytorch** and **Tensorflow** were used.
-
-![Row Detection](/assets/img/row_detect.png)
-
-### 💵 Adult Income 💵 (2023)
-An analysis of the classic Adult dataset where data cleaning and preprocessing techniques were applied, as well as modeling and deployment of a binary classifier. **Plotly**, **Streamlit**, Scikit-learn and **Pandas** were used.
-
-![app](/assets/img/app_view.png)
 
 [Check more projects here!](more-projects.md)
 
