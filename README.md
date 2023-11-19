@@ -17,24 +17,16 @@ I am passionate about artificial intelligence and data science. I have recently 
 ### 🐄 Analysis of Milk Quality 🐄 (2023)
 Classification of milk quality based on a dataset obtained from observations at milking. Interesting dimensional reduction techniques were applied as well as the deployment of the classifier in **Flask**, also **Scikit-learn** tools were used.
 
-![Projection](/assets/img/ProjectionsfromtSNE3D.png)
-
 <p align="center">
-   <img width="460" src="https://cdn11.bigcommerce.com/s-f6cx4kq/images/stencil/1280x1280/products/129/4147/Carolina_Reaper_pepper_Tyler_Farms_seeds_plants_1__69055.1671302971.png?c=2" alt="[YOUR_ALT]"/>
-</p>
-
-<p align="center">
-   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png?raw=true" alt="[YOUR_ALT]"/>
-</p>
-
-<p align="center">
-   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png" alt="[YOUR_ALT2]"/>
+   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/ProjectionsfromtSNE3D.png?raw=true" alt="Projection"/>
 </p>
 
 ### 🍅 Image Segmentation for greenhouse 🍅 (2023)
 A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai** and Gradio.
 
-![Projection](/assets/img/segformer_demo.png)
+<p align="center">
+   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/segformer_demo.png?raw=true" alt="Demo"/>
+</p>
 
 [Check more projects here!](more-projects.md)
 
