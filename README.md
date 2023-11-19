@@ -20,7 +20,7 @@ Classification of milk quality based on a dataset obtained from observations at 
 ![Projection](/assets/img/ProjectionsfromtSNE3D.png)
 
 <p align="center">
-   <img src="/assets/img/ProjectionsfromtSNE3D.png" alt="[YOUR_ALT]"/>
+   <img src="https://cdn11.bigcommerce.com/s-f6cx4kq/images/stencil/1280x1280/products/129/4147/Carolina_Reaper_pepper_Tyler_Farms_seeds_plants_1__69055.1671302971.png?c=2" alt="[YOUR_ALT]"/>
 </p>
 
 ### 🍅 Image Segmentation for greenhouse 🍅 (2023)
