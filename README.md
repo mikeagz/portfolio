@@ -2,9 +2,9 @@ I am passionate about artificial intelligence and data science. I have recently 
 
 <div align="center">
 
-🤗 [HuggingFace](https://huggingface.co/MexicanVanGogh)
-📄 [Medium](https://medium.com/@galiciaz2021)
-👨🏾‍💻 [Kaggle](https://www.kaggle.com/miguelgalicia)
+🤗 [HuggingFace]("https://huggingface.co/MexicanVanGogh")
+📄 [Medium]("https://medium.com/@galiciaz2021")
+👨🏾‍💻 [Kaggle]("https://www.kaggle.com/miguelgalicia")
 
 </div>
 
