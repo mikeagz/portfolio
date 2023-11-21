@@ -4,7 +4,7 @@ I am passionate about artificial intelligence and data science. I have recently 
 
 📄 [Medium]("https://medium.com/@galiciaz2021") 
 
-👨🏾‍💻 ![Kaggle]("https://www.kaggle.com/miguelgalicia")
+👨🏾‍💻 [Kaggle]("https://www.kaggle.com/miguelgalicia")
 
 
 
