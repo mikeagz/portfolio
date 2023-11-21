@@ -1,8 +1,11 @@
 I am passionate about artificial intelligence and data science. I have recently started my studies as a PhD student in computer science. I have a strong background in various modeling paradigms, including supervised, unsupervised and reinforcement learning. I use tools such as Python and Scikit-Learn proficiently to address **classification**, **regression** and **clustering** challenges. Exploring areas such as **Computer Vision** and **Natural Language Processing**, I have successfully solved complex problems with **TensorFlow** and **Pytorch**. In addition, I demonstrate proficiency in **SQL** for databases and leverage **Azure** Studio for cloud computing. My commitment to continuous learning constantly drives me to broaden my horizons of expertise.
 
-🤗 HuggingFace
-📄 Medium
-👨🏾‍💻 Kaggle
+<div align="center">
+
+[🤗 HuggingFace](https://huggingface.co/MexicanVanGogh)
+[📄 Medium](https://medium.com/@galiciaz2021)
+[👨🏾‍💻 Kaggle](https://www.kaggle.com/miguelgalicia)
+</div>
 
 ## 🎓 Education 🎓
 - Ph.D., Computer Science | Computing Research Center (_Jun 2027_)
@@ -33,7 +36,7 @@ A **Segformer** model was implemented for image segmentation in greenhouses, the
 ## Further training
 I am a person who is constantly learning, that is why I like to attend workshops, conferences or take online courses on professional topics or hobbies.
 
-- [IT Project Panagement](https://drive.google.com/file/d/11AdWADj3LvfMMs7U44TOEAsLdaqnrxg9/view)
+- [IT Project Management](https://drive.google.com/file/d/11AdWADj3LvfMMs7U44TOEAsLdaqnrxg9/view)
 - [Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/LZMDYCJCR2UY)
 - [Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/TVYKF9C2XEMS)
 - [Python for Data Analysis: Pandas & NumPy](https://www.coursera.org/account/accomplishments/verify/6QRKQ8GZFF5N)
