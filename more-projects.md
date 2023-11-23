@@ -69,9 +69,21 @@ Aspects to be highlighted:
 ### 🌏 Research on World Models 🌏 (2021-2023)
 Master thesis that improves the performance of world-model based agents by reducing the number of parameters in appropriate models such as **PCA** and **VAE**. The project was developed in **Python** and **Tensorflow**.
 
+Aspects to be highlighted:
+- To facilitate the inference of the proposed models and experimentation, a local deployment with `serving_default` of TensorFlow was chosen.
+- **Weights & Biases** was used to track experiments and model performance. 
+- An optimization based on **evolutionary algorithms** was chosen instead of gradient-based algorithms. 
+
 <p align="center">
    <img width=450 src="https://github.com/mikeagz/portfolio/blob/main/assets/img/worldModel.jpg?raw=true" alt="Demo"/>
 </p>
 
 ### 🤖 Agricultural robot for spraying 🤖 (2020)
 Agricultural robot prototype for monitoring and spraying tasks in tomato greenhouses. The project covered the mechanical design and development of control systems at the functional prototype level. Solidworks, **Matlab** and Labview were used.
+
+Aspects to be highlighted:
+
+- The robot was designed from scratch and validated with specialized software to withstand the real conditions of agricultural environments.
+- The control system was based on classical algorithms such as PID and PD for motor control by means of system identification and controller design.
+- The power electronics were chosen to be modular in order to facilitate repair or scaling up.
+- The development boards were programmed in **C++ language**.
