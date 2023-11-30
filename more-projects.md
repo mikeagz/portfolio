@@ -1,5 +1,13 @@
 [⬅️ back](./)
 
+### 🍅 Image Segmentation for greenhouse 🍅 (2023)
+A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai** and Gradio.
+
+<p align="center">
+   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/segformer_demo.png?raw=true" alt="Demo"/>
+</p>
+
+
 ### 🌽 Autonomous Navigation Vision System 🌽 (2023)
 
 An autonomous navigation system was developed for agricultural robots based on the tracking of corn rows through **image segmentation** with deep learning models. The system was implemented on **Jetson Xavier** and Arduino devices. Languages and frameworks such as **Python**, **Pytorch** and **Tensorflow** were used.
@@ -50,7 +58,10 @@ Highlights:
 - The convolutional network model was trained in TensorFlow using a custom class inherited from tf.module with weight initializers subject to a **uniform lecun** distribution.
 - Sklearn was useful for model evaluation with metrics such as **confusion matrix**, **precision**, recall and f1.
 
-![Simpson](assets/img/simpson.png)
+<p align="center">
+   <img width="400" src="https://github.com/mikeagz/portfolio/blob/main/assets/img/simpson.png?raw=true" alt="logo"/>
+</p>
+
 
 ### 🍔 Fast Food Classifier 🍔(2022)
 In this project we have classified different fast foods and different representations (commercial, amateur photos, professional photos, etc). The activities include:
