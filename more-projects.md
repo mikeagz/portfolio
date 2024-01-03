@@ -1,6 +1,6 @@
 [⬅️ back](./)
 
-### 🍅 Image Segmentation for greenhouse 🍅 (2023)
+### 🍅 [Image Segmentation for greenhouse](https://github.com/mikeagz/Fine-tune-a-Segformer) 🍅 (2023)
 A **Segformer** model was implemented for image segmentation in greenhouses, the project covered from data collection to deployment in **HuggingFace** spaces. The project was approached with HuggingFace tools (Pipelines, Datasets, AutoTrain), **Pytorch** and **Segments.ai** and Gradio.
 
 <p align="center">
@@ -14,7 +14,7 @@ An autonomous navigation system was developed for agricultural robots based on t
 
 ![Row Detection](/assets/img/row_detect.png)
 
-### 💵 Adult Income 💵 (2023)
+### 💵 [Adult Income](https://github.com/mikeagz/Adult-Income) 💵 (2023)
 An analysis of the classic Adult dataset where data **cleaning** and **preprocessing** techniques were applied, as well as **modeling** and **deployment** of a binary classifier. The following tools were used:
 - Sklearn
 - Streamlit
@@ -63,7 +63,7 @@ Highlights:
 </p>
 
 
-### 🍔 Fast Food Classifier 🍔(2022)
+### 🍔 [Fast Food Classifier](https://github.com/mikeagz/Fast-Food-Classifier) 🍔(2022)
 In this project we have classified different fast foods and different representations (commercial, amateur photos, professional photos, etc). The activities include:
 - Preprocessing and manipulation
 - Modeling

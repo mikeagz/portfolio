@@ -19,7 +19,7 @@ I am passionate about artificial intelligence and data science. I have recently 
 
 ## 💡Projects
 
-### 🍄 Fungi imaging with diffusion models 🍄 (2023)
+### 🍄 [Fungi imaging with diffusion models](https://github.com/mikeagz/Mushroom-Diffusion) 🍄 (2023)
 This project aims at the unconditional generation of fungal images using a DDPM (Denoising Diffusion Probabilistic Models) model with a UNET architecture, with an image size of 128x128 pixels. The dataset used was extracted from Kaggle and two different approaches were explored: a model trained with the whole dataset and another trained only with two specific classes of fungi.
 
 Libraries and tools:
@@ -30,7 +30,7 @@ Libraries and tools:
 - Accelerate
 - Wandb
 
-### 🐄 Analysis of Milk Quality 🐄 (2023)
+### 🐄 [Analysis of Milk Quality](https://github.com/mikeagz/Milk-Quality) 🐄 (2023)
 Classification of milk quality based on a dataset obtained from observations at milking. Interesting dimensional reduction techniques were applied as well as the deployment of the classifier in **Flask**, also **Scikit-learn** tools were used.
 
 <p align="center">
