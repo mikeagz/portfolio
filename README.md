@@ -19,8 +19,17 @@ I am passionate about artificial intelligence and data science. I have recently 
 
 ## 💡Projects
 
+
+### ❗ [Risk Classification](https://github.com/mikeagz/Risk-Classification) ❗ (2024)
+
+This project intends to evaluate the risk of individuals as Good, Medium and Bad according to variables such as age, income, number of children, credit cards, mortgage among others for decision making. Cleaning and preprocessing tasks, outlier detection as well as modeling (**AdaBoost**) for the classification task were performed. Libraries such as **Pandas**, **Plotly**, **Scikit-Learn** and **NumPy** were used.
+
+<p align="center">
+   <img width=600 src="https://github.com/mikeagz/Risk-Classification/blob/main/report/img/cm.png?raw=true" alt="CM"/>
+</p>
+
 ### 🍄 [Fungi imaging with diffusion models](https://github.com/mikeagz/Mushroom-Diffusion) 🍄 (2023)
-This project aims at the unconditional generation of fungal images using a DDPM (Denoising Diffusion Probabilistic Models) model with a UNET architecture, with an image size of 128x128 pixels. The dataset used was extracted from Kaggle and two different approaches were explored: a model trained with the whole dataset and another trained only with two specific classes of fungi.
+This project aims at the unconditional generation of fungal images using a **DDPM** (Denoising Diffusion Probabilistic Models) model with a UNET architecture, with an image size of 128x128 pixels. The dataset used was extracted from Kaggle and two different approaches were explored: a model trained with the whole dataset and another trained only with two specific classes of fungi.
 
 Libraries and tools:
 - HuggingFace
