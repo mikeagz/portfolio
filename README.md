@@ -14,6 +14,10 @@ I am passionate about artificial intelligence and data science. I have recently 
 - B.S., Control Engineering | National Polytechnic Institute (_Dec 2020_)
 
 ## Work Experience
+
+**Data Scientist @ Bluetab (_Jan 2024 - Currently_)**
+- I work as a data scientist for BBVA clients, participating in different projects for risk modeling and validating them with statistical tests. SQL, Spark, Scipy are some of the tools I use in my day-to-day work, on the other hand, I maintain an Agile approach with my team.
+
 **Classroom Lecturer @ FEMEX (_Dec 2022 - Jan 2023_)**
 - Demonstration of the Habitat AI simulator via python framework. A demonstration of reinforcement learning models (PPO) as well as classical models (SLAM) within the simulator was presented with Python.
 
@@ -53,6 +57,8 @@ Classification of milk quality based on a dataset obtained from observations at 
 ## Further training
 I am a person who is constantly learning, that is why I like to attend workshops, conferences or take online courses on professional topics or hobbies.
 
+- [Scrum Master by Scaled Agile]()
+- [Safety Development]()
 - [IT Project Management](https://drive.google.com/file/d/11AdWADj3LvfMMs7U44TOEAsLdaqnrxg9/view)
 - [Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/LZMDYCJCR2UY)
 - [Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/TVYKF9C2XEMS)
