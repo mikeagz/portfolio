@@ -1,4 +1,4 @@
-I am passionate about artificial intelligence and data science. I have recently started my studies as a PhD student in computer science. I have a strong background in various modeling paradigms, including supervised, unsupervised and reinforcement learning. I use tools such as Python and Scikit-Learn proficiently to address **classification**, **regression** and **clustering** challenges. Exploring areas such as **Computer Vision** and **Natural Language Processing**, I have successfully solved complex problems with **TensorFlow** and **Pytorch**. In addition, I demonstrate proficiency in **SQL** for databases and leverage **Azure** Studio for cloud computing. My commitment to continuous learning constantly drives me to broaden my horizons of expertise.
+I am passionate about artificial intelligence and data science. I have a strong background in various modeling paradigms, including supervised, unsupervised and reinforcement learning. I use tools such as Python and Scikit-Learn proficiently to address **classification**, **regression** and **clustering** challenges. Exploring areas such as **Computer Vision** and **Natural Language Processing**, I have successfully solved complex problems with **TensorFlow** and **Pytorch**. In addition, I demonstrate proficiency in **SQL** for databases and leverage **Azure** Studio for cloud computing. My commitment to continuous learning constantly drives me to broaden my horizons of expertise.
 
 🤗 [HuggingFace](https://huggingface.co/MexicanVanGogh) 
 
@@ -24,6 +24,21 @@ I am passionate about artificial intelligence and data science. I have recently 
 
 ## 💡Projects
 
+### 🍅 [Image Segmentation for greenhouse](https://github.com/mikeagz/Fine-tune-a-Segformer) 🍅 (2023-2024)
+A series of state-of-the-art models — including Segformer, MaskFormer, Mask2Former, YOLOv11, and UNet — were implemented and fine-tuned for image segmentation in greenhouses. This project, covering everything from data collection (with a custom-built dataset) to deployment in Hugging Face Spaces, provided a comparative evaluation of each model's performance in agricultural environments.
+
+The approach utilized Hugging Face tools (Pipelines, Datasets, AutoTrain), along with PyTorch, Segments.ai, and Gradio, ensuring an end-to-end solution tailored to assess and deploy these models for agricultural applications.
+
+<p align="center">
+   <img src="https://github.com/mikeagz/portfolio/blob/main/assets/img/segformer_demo.png?raw=true" alt="Demo"/>
+</p>
+
+
+### 🌽 Autonomous Navigation Vision System 🌽 (2023)
+
+An autonomous navigation system was developed for agricultural robots based on the tracking of corn rows through **image segmentation** with deep learning models. The system was implemented on **Jetson Xavier** and Arduino devices. Languages and frameworks such as **Python**, **Pytorch** and **Tensorflow** were used.
+
+![Row Detection](/assets/img/row_detect.png)
 
 ### ❗ [Risk Classification](https://github.com/mikeagz/Risk-Classification) ❗ (2024)
 
